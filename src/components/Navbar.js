@@ -7,7 +7,7 @@ function Navbar({ setAddress }) {
   return (
     <nav className="bg-[#171C2A] py-4">
       <div className="navBar">
-        <a href="#" onClick={() => handleClick("#")}>
+        <a href="/#" onClick={() => handleClick("/#")}>
           <p className="title">
             P<span>Cart</span>
           </p>
