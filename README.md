@@ -4,13 +4,13 @@ In this repository, I build a cart application with all the feature of an e-comm
 
 ## Install
 
-    $ git@github.com:pintodas16/TableComponent.git
+    $ git@github.com:pintodas16/Cart.git
     $ cd TableComponent
     $ npm install
 
 ## Start & watch
 
-    $ npm run dev
+    $ npm run start
 
 ## Simple build for production
 
